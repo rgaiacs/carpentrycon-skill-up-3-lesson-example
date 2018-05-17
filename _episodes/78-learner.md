@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Free to use"
 teaching: 0
 exercises: 0
 questions:
