@@ -7,7 +7,7 @@ questions:
 objectives:
 - "First objective."
 keypoints:
-- "First key point."
+- "First point."
 ---
 
 {% include links.md %}
