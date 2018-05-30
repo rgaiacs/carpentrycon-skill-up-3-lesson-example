@@ -1,5 +1,5 @@
 ---
-title: "Free to use"
+title: "The github workshop"
 teaching: 0
 exercises: 0
 questions:
