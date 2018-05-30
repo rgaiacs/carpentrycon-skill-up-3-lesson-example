@@ -1,5 +1,5 @@
 ---
-title: "Free to use"
+title: "Skill up"
 teaching: 0
 exercises: 0
 questions:
@@ -7,7 +7,7 @@ questions:
 objectives:
 - "First objective."
 keypoints:
-- "First key point."
+- "My  next change."
 ---
 
 {% include links.md %}
