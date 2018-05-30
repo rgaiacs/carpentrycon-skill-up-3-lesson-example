@@ -4,7 +4,7 @@ teaching: 0
 exercises: 0
 questions:
 - "Key question"
-objectives
+objectives:
 - "How to use GitHub."
 keypoints:
 - "First key point."
