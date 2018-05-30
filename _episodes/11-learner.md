@@ -7,7 +7,9 @@ questions:
 objectives:
 - "First objective."
 keypoints:
-- "First key point."
+- "Some other key point"
 ---
+
+Some way I am improving the lesson.
 
 {% include links.md %}
