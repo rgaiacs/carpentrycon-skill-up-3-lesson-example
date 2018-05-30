@@ -1,5 +1,5 @@
 ---
-title: "Free to use"
+title: "Skill up"
 teaching: 0
 exercises: 0
 questions:
