@@ -1,5 +1,5 @@
 ---
-title: "Free to use"
+title: "Mapologo is trying for figuring out"
 teaching: 0
 exercises: 0
 questions:
