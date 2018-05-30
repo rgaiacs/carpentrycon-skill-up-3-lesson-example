@@ -1,5 +1,5 @@
 ---
-title: "This is mine :>"
+title: "Free to use (not anymore!)"
 teaching: 0
 exercises: 0
 questions:
