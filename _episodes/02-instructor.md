@@ -1,13 +1,15 @@
 ---
-title: "Free to use"
+title: "skill lup"
 teaching: 0
 exercises: 0
 questions:
 - "Key question"
 objectives:
-- "First objective."
+- "How to use github."
 keypoints:
 - "First key point."
----
+-
+
+--
 
 {% include links.md %}
