@@ -1,5 +1,5 @@
 ---
-title: "Free to use"
+title: "Free to use (not anymore!)"
 teaching: 0
 exercises: 0
 questions:
