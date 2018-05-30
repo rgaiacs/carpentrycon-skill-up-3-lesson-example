@@ -1,13 +1,23 @@
 ---
-title: "Free to use"
-teaching: 0
-exercises: 0
+title: "Hello world"
+teaching: 20
+exercises: 40
 questions:
-- "Key question"
+- "What is life?"
 objectives:
-- "First objective."
+- "Learn about life."
 keypoints:
-- "First key point."
+- "Live with reality."
 ---
+
+Hello, little turtles.  Let's open the turtle module.
+
+``` python
+
+import turtle
+
+```
+
+Something somethng something turtles.
 
 {% include links.md %}
